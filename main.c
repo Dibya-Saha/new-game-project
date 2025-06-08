@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include "utils.c"
 #include <stdlib.h>
-#include <string.h>
+#include <string.h> // important for git github understanding
 #include <math.h>
 #define MAX_SIZE 1000000
 #define MAX_BINS 1000
 #define MAX_STARS 50
 double array[MAX_SIZE];
-// global variable dec. dibya 
+// global variable dec. 
 double mean, max, min, stddev, median;
 int size;
 void help_command()
