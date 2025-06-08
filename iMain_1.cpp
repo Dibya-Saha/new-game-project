@@ -1,7 +1,7 @@
 #include "iGraphics.h"
 
 /*
-function iDraw() is called again and again by the system.
+function iDraw() is called again and again by the system. my name is dibya saha
 */
 void iDraw()
 {
